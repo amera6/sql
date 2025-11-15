@@ -205,5 +205,11 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+As an Epidemiology student, I reguarly learn about or work with public health databases, and it’s obvious that they quietly imbed value systems about whose experiences matter and what differences are worth measuring.
+
+A big one is gender. Many older (and even some current) surveys only allow “male” or “female,” with no room for trans, nonbinary, or Two-Spirit identities. This reflects a value judgment that only binary gender categories are worth tracking. When data is collected like that, it erases entire groups at the input stage. Later, when a researcher wants to ask, for example, whether access to care differs for trans patients, it’s impossible to answer because the system never allowed those patients to exist in the first place.
+
+Race and ethnicity are similar. A lot of administrative health data in Canada uses overly broad “race” fields (if race is collected at all). Different communities get collapsed into one label, like grouping Black African and Black Caribbean together, or “South Asian” being treated as interchangeable for people who are Sri Lankan, Tamil, or Punjabi. That flattening encodes a belief that these groups experience the health system the same way, which is not true. On the flip side, many databases have stopped collecting race altogether and just store country of birth instead. That quietly assumes race and racism don’t matter for health, i.e., that a Canadian-born Black person and a Canadian-born white person will have similar exposures, risks, and outcomes because they’re both “Canadian-born.”
+
+These design choices have real consequences. They make it harder to study inequities, which then makes it easier for institutions to say “there’s no evidence of a disparity.” The absence of data becomes an excuse to ignore structural problems. 
 ```
